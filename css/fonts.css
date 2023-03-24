@@ -1,0 +1,20 @@
+@font-face {
+  font-family: iransansx;
+  font-style: normal;
+  font-weight: 400;
+  src: local("IRANSansX"),
+    url("/assets/fonts/IRANSansXRegular.woff") format("woff");
+}
+
+@font-face {
+  font-family: iransansx;
+  font-style: normal;
+  font-weight: 700;
+  src: local("IRANSansX"),
+    url("/assets/fonts/IRANSansXBold.woff") format("woff");
+}
+
+body,
+button {
+  font-family: "IRANSansX", sans-serif;
+}
