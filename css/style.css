@@ -775,7 +775,6 @@ h3 {
 .footer__item a {
   transition: all 0.3s ease-in-out;
 }
-.footer__item h6:hover,
 .footer__item a:hover {
   color: #71c4de;
 }
@@ -851,7 +850,6 @@ hr {
     font-size: 2rem;
     margin-bottom: 0;
   }
-  .footer__item h6:hover,
   .footer__item a:hover {
     color: var(--color-text-primary);
   }
